@@ -44,6 +44,8 @@ int main(int nNumberofArgs, char* pszArgs[])
 		cout << "this is the loop count " << loopCount << " \n";
 		cout << "this is the loop count " << loopCount << " \n";
 		///testasas asdasd
+
+		///fuck this shit
 	}
 
 	// wait until user is ready before terminating program
