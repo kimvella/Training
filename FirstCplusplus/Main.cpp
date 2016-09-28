@@ -34,7 +34,7 @@ int main(int nNumberofArgs, char* pszArgs[])
 	{
 		loopCount--;
 		cout << "this is the loop count " << loopCount << " \n";
-
+		cout << "this is the loop count " << loopCount << " \n";
 	}
 
 	// wait until user is ready before terminating program
